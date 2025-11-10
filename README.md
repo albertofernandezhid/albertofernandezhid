@@ -21,7 +21,7 @@
 
 ## 📂 Proyectos destacados
 
-- 🎲 [**Sorteo de Números Web**](https://hwchangos.web.app/)  
+- 🎲 **Sorteo de Números Web**  
   Aplicación sin registros para gestionar sorteos desde el navegador. Incluye panel de administración y sincronización en tiempo real con Firebase.
 
 - 🕒 **MarkTime** (TFG)  
