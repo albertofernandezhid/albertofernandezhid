@@ -18,7 +18,6 @@
 
 ### 🎮 Desarrollo de Videojuegos & XR
 ![Unity](https://img.shields.io/badge/Unity-6-000000?logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?logo=unrealengine&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
 ![Realidad Virtual](https://img.shields.io/badge/VR/XR-FF6B00?logo=meta&logoColor=white)
 
