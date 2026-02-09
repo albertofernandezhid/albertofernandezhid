@@ -27,24 +27,6 @@
 
 ---
 
-## 📂 Proyectos Destacados
-
-### 🎲 **Sorteo de Números Web**
-Aplicación web para gestión de sorteos con panel de administración y sincronización en tiempo real mediante Firebase.
-
-### 🕒 **MarkTime** (Proyecto Fin de Grado)
-Sistema de control horario para empleados desarrollado con Angular, Symfony y PostgreSQL. Enfoque en UX/UI responsive.
-
-### 🧘 **Sannu** (Prácticas en CodeArts Solutions)
-Plataforma web de fisioterapia con panel administrativo, gestión de clases, reservas y sistema de monedero virtual.
-
-### 🎮 **Proyectos de Videojuegos** (En desarrollo)
-- Desarrollo de videojuegos 2D con Unity 6
-- Proyectos de Realidad Aumentada y Virtual (XR)
-- Colaboración con **64train Software** en proyecto de prácticas
-
----
-
 ## 🚀 Enfoque Actual
 
 - **Especialización en desarrollo de videojuegos 2D y 3D** usando **Unity 6**, con atención a mecánicas, físicas y sistemas de control.
